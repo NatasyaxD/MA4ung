@@ -90,14 +90,7 @@ console.log('')
 console.log(chalk.bgCyan(`♠Crown : ${crown}`))      
       
       await GoStumble(auth);
-      await GoStumble(auth);
-      await GoStumble(auth);
-      await GoStumble(auth);
-      console.log('')
-      console.log('')
-      await sleep(10000);
-      
-      
+        
 
     } else if (result == 'BANNED') {
       console.log(chalk.bgRed(`Your Account has been Banned`));
