@@ -90,9 +90,13 @@ console.log('')
 console.log(chalk.bgCyan(`♠Crown : ${crown}`))      
       
       await GoStumble(auth);
+      await GoStumble(auth);
+      await GoStumble(auth);
+      await GoStumble(auth);
+      await GoStumble(auth);
       console.log('')
       console.log('')
-      await sleep(5000);
+      await sleep(6000);
       
       
 
